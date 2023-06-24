@@ -4,7 +4,7 @@ The client is an electornic company that has store in multiple US states. The re
 
 I used Python to clean the data and Power Bi for visualization for this project.
 
-# Column names and description:
+# Column Names and Description:
 
 Order_ID: ID's for all the orders
 
