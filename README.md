@@ -24,6 +24,8 @@ Evaluated the data sheets and all the column names were the same across the whol
 
 We added an additional column for the Product type to distinguish between products which are Basic and High Level.
 
+Once the data from all the months was perfect we combined them into on sheet and exported it and that is what was upload onto Power Bi for Visulization
+
 # Conclusion
 1. The second and fourth quarter are the busiest and that is the period the company makes the most sales. The fourth quarter has the highest sales it being holiday season hence best time to target promotions.  
 2. San Francisco, Los Angeles and New York City are they key states that bring in most sales compare to the other states.
