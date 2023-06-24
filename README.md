@@ -6,17 +6,22 @@ I used Python to clean the data and Power Bi for visualization for this project.
 
 # Column Names and Description:
 
-Order_ID: ID's for all the orders
+1. Order_ID: ID's for all the orders
+2. Product: Products Sold
+3. Quantity_Ordered: How many pieces were sold
+4. Price_Each: Cost for the product
+5. Order_Date: Date a purchase was made
+6. Purchase_Address: Address of the purchaser
 
-Product: Products Sold
+# Questions
 
-Quantity_Ordered: How many pieces were sold
+1. How much money did we make this year?
+2. Can we identify any seasonality in the sales?
+3. What are our best and worst-selling products?
+4. How do sales compare to previous months or weeks?
+5. Which cities are our products delivered to most?
+6. How do product categories compare in revenue generated and quantities ordered?
 
-Price_Each: Cost for the product
-
-Order_Date: Date a purchase was made
-
-Purchase_Address: Address of the purchaser
 
 # Data Cleaning
 
@@ -25,6 +30,11 @@ Evaluated the data sheets and all the column names were the same across the whol
 We added an additional column for the Product type to distinguish between products which are Basic and High Level.
 
 Once the data from all the months was perfect we combined them into on sheet and exported it and that is what was upload onto Power Bi for Visulization
+
+# Dashboard
+![image](./images/Images1.png)
+![image2](./images/Image2.png)
+
 
 # Conclusion
 1. The second and fourth quarter are the busiest and that is the period the company makes the most sales. The fourth quarter has the highest sales it being holiday season hence best time to target promotions.  
